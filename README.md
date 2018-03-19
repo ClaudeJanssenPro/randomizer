@@ -1,2 +1,2 @@
-# randomizer
-Quick'nDirty Randomizer, might evovle someday?
+# Randomizer
+Quick'nDirty Randomizer, might evolve someday?
